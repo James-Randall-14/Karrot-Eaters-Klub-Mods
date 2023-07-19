@@ -1,10 +1,12 @@
 *
 
-!/
-
+!config
 !config/*
+!mods
 !mods/*
+!resourcepacks
 !resourcepacks/*
+!shaderpacks
 !shaderpacks/*
 !.gitignore
 !README.md
