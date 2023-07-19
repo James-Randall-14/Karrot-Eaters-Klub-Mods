@@ -1,0 +1,8 @@
+#Tue Jul 18 16:39:07 PDT 2023
+shadowDistance=128.0
+CLOUD_AMOUNT=11.0
+ROUND_SUN_MOON=true
+shadowMapResolution=1024
+CLOUD_DETAIL=0.7
+CLOUD_SPEED=0.50
+AURORA=true
