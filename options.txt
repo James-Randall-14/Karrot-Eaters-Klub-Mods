@@ -31,8 +31,8 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:1.0
-renderDistance:12
-simulationDistance:12
+renderDistance:8
+simulationDistance:7
 entityDistanceScaling:1.0
 guiScale:0
 particles:0
@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","file/VanillaTweaks_r469222.zip","file/§f§lDynamic§7§o§lSurroundings§b♦§a§nv2.4.1.zip"]
+resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","file/§f§lDynamic§7§o§lSurroundings§b♦§a§nv2.4.1.zip","file/VanillaTweaks_r469222.zip","file/§6§lClassic 3D v15.2 - 1.20.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -72,10 +72,10 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
@@ -114,10 +114,10 @@ key_key.hotbar.2:key.keyboard.2
 key_key.hotbar.3:key.keyboard.3
 key_key.hotbar.4:key.keyboard.4
 key_key.hotbar.5:key.keyboard.5
-key_key.hotbar.6:key.keyboard.e
-key_key.hotbar.7:key.keyboard.r
-key_key.hotbar.8:key.mouse.5
-key_key.hotbar.9:key.mouse.4
+key_key.hotbar.6:key.mouse.5
+key_key.hotbar.7:key.mouse.4
+key_key.hotbar.8:key.keyboard.e
+key_key.hotbar.9:key.keyboard.r
 key_of.key.zoom:key.mouse.middle
 key_supplementaries.keybind.quiver:key.keyboard.v
 soundCategory_master:1.0

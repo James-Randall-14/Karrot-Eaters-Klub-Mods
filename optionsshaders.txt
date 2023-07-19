@@ -1,4 +1,4 @@
-#Tue Jul 18 16:39:19 PDT 2023
+#Wed Jul 19 02:35:46 PDT 2023
 handDepthMul=0.125
 TexMinFilB=0
 oldLighting=default
@@ -10,10 +10,10 @@ shaderPack=BSL_v8.2.04.zip
 TexMinFilN=0
 specularMapEnabled=true
 normalMapEnabled=true
-renderResMul=1.0
+renderResMul=0.75
 oldHandLight=default
 TexMinFilS=0
-shadowResMul=1.0
+shadowResMul=0.5
 shadowClipFrustrum=true
 TexMagFilB=0
 antialiasingLevel=0
