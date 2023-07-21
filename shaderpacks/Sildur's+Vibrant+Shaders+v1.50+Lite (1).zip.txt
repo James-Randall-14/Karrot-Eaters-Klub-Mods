@@ -1,0 +1,13 @@
+#Thu Jul 20 11:35:38 PDT 2023
+Celshading=true
+metallicRefl=true
+g_multiplier=1.25
+MB_strength=0.008
+waterRefl=true
+RainReflections=true
+wFogDensity=120.0
+iceRefl=true
+Lens_Flares=true
+polishedRefl=true
+b_multiplier=1.25
+Motionblur=true

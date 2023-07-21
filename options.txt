@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","file/§f§lDynamic§7§o§lSurroundings§b♦§a§nv2.4.1.zip","file/VanillaTweaks_r469222.zip","file/§6§lClassic 3D v15.2 - 1.20.zip"]
+resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","file/§f§lDynamic§7§o§lSurroundings§b♦§a§nv2.4.1.zip","file/§6§lClassic 3D v15.2 - 1.20.zip","file/VanillaTweaks_r667110.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -101,7 +101,7 @@ key_key.pickItem:key.keyboard.left.control
 key_key.command:key.keyboard.slash
 key_key.socialInteractions:key.keyboard.p
 key_key.screenshot:key.keyboard.f2
-key_key.togglePerspective:key.keyboard.f5
+key_key.togglePerspective:key.keyboard.6
 key_key.smoothCamera:key.keyboard.8
 key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
@@ -120,7 +120,36 @@ key_key.hotbar.8:key.keyboard.e
 key_key.hotbar.9:key.keyboard.r
 key_of.key.zoom:key.mouse.middle
 key_supplementaries.keybind.quiver:key.keyboard.v
-soundCategory_master:1.0
+key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
+key_key.jei.cheatItemStack:key.mouse.left:SHIFT
+key_key.jei.clearSearchBar:key.mouse.right
+key_key.jei.cheatItemStack2:key.keyboard.unknown
+key_key.jei.toggleWildcardHideIngredient:key.mouse.right:CONTROL
+key_key.jei.showRecipe2:key.mouse.left
+key_key.jei.closeRecipeGui:key.keyboard.escape
+key_key.jei.toggleEditMode:key.keyboard.unknown
+key_key.jei.showRecipe:key.keyboard.r
+key_key.jei.nextRecipePage:key.keyboard.page.down
+key_key.jei.toggleCheatMode:key.keyboard.unknown
+key_key.jei.nextPage:key.keyboard.unknown
+key_key.jei.nextSearch:key.keyboard.down
+key_key.jei.cheatOneItem2:key.mouse.right
+key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
+key_key.jei.cheatOneItem:key.mouse.left
+key_key.jei.showUses2:key.mouse.right
+key_key.jei.focusSearch:key.keyboard.f:CONTROL
+key_key.jei.bookmark:key.keyboard.a
+key_key.jei.previousPage:key.keyboard.unknown
+key_key.jei.showUses:key.keyboard.u
+key_key.jei.previousRecipePage:key.keyboard.page.up
+key_key.jei.copy.recipe.id:key.keyboard.unknown
+key_key.jei.previousSearch:key.keyboard.up
+key_key.jei.toggleHideIngredient:key.mouse.left:CONTROL
+key_key.jei.nextCategory:key.keyboard.page.down:SHIFT
+key_key.jei.previousCategory:key.keyboard.page.up:SHIFT
+key_key.jei.toggleCheatModeConfigButton:key.mouse.left:CONTROL
+key_key.jei.recipeBack:key.keyboard.backspace
+soundCategory_master:0.5099337748344371
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

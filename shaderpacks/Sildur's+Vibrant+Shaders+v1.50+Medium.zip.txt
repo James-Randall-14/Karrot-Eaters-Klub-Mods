@@ -1,0 +1,11 @@
+#Wed Jul 19 22:12:11 PDT 2023
+Celshading=true
+morningFog=true
+TAA=false
+g_multiplier=1.25
+Lens_Flares=true
+MB_strength=0.008
+b_multiplier=1.25
+uFogDensity=50.0
+Motionblur=true
+wFogDensity=120.0

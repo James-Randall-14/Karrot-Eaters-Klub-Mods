@@ -57,13 +57,13 @@ ofRenderRegions:true
 ofSmartAnimations:true
 ofDynamicFov:true
 ofAlternateBlocks:true
-ofDynamicLights:2
+ofDynamicLights:1
 ofScreenshotSize:1
 ofCustomEntityModels:true
 ofCustomGuis:true
 ofShowGlErrors:true
 ofFastMath:true
-ofFastRender:true
+ofFastRender:false
 ofChatBackground:0
 ofChatShadow:true
 ofTelemetry:0
