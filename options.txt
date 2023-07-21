@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","file/§f§lDynamic§7§o§lSurroundings§b♦§a§nv2.4.1.zip","file/§6§lClassic 3D v15.2 - 1.20.zip","file/VanillaTweaks_r667110.zip"]
+resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","file/§f§lDynamic§7§o§lSurroundings§b♦§a§nv2.4.1.zip","file/VanillaTweaks_r667110.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -149,8 +149,8 @@ key_key.jei.nextCategory:key.keyboard.page.down:SHIFT
 key_key.jei.previousCategory:key.keyboard.page.up:SHIFT
 key_key.jei.toggleCheatModeConfigButton:key.mouse.left:CONTROL
 key_key.jei.recipeBack:key.keyboard.backspace
-soundCategory_master:0.5099337748344371
-soundCategory_music:1.0
+soundCategory_master:0.5
+soundCategory_music:0.1073943661971831
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
